@@ -8,7 +8,7 @@ I'm a Javascript developer and enthusiast of mobile and web technologies. Usuall
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [oliveiramoraes05@gmail.com](mailto:oliveiramoraes05@gmail.com)
-* 🧠  I'm learning React Native and Node.js
+* 🧠  I'm focusing on React Native and Node.js
 * ⚡  Please, keep this in secret, but I'm the Spider-Man 🤫
 
 ### Skills
