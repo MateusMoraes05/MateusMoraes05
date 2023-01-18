@@ -32,7 +32,3 @@ I'm a Javascript developer and enthusiast of mobile and web technologies. Usuall
 [![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusMoraes05&theme=midnight-purple&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMoraes05&layout=compact&theme=midnight-purple&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/oliveiramol"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
