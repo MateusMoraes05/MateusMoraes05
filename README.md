@@ -29,7 +29,9 @@ I'm a Javascript developer and enthusiast of mobile and web technologies. Usuall
 
 <p align="left"> <a href="https://www.github.com/MateusMoraes05" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/__MatMoraes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-[![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusMoraes05&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusMoraes05&theme=midnight-purple&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMoraes05&layout=compact&theme=midnight-purple&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Support Me
 
