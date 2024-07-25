@@ -1,11 +1,12 @@
 Hi 👋 My name is Mateus
 =======================
 
-Full Stack Developer
+Front-end Developer
 --------------------
 
-I'm a Javascript developer and enthusiast of mobile and web technologies. Usually, I spent most of my time on personal projects, however, I'm in a constant search for open source programs that I can learn new things and contribute with my knowledge. 💻❤️
+I'm a Javascript developer and Mathematics student. Usually, I spent most of my time on personal projects, however, I'm in a constant search for open source programs that I can learn new things and contribute with my knowledge. 💻
 
+* 📖  Aplied Mathematics - UNESP
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [oliveiramoraes05@gmail.com](mailto:oliveiramoraes05@gmail.com)
 * 🧠  I'm focusing on React, React-Native and Node.js
